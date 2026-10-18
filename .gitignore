@@ -6,3 +6,9 @@ sentinel-findings.md
 sentinel-findings.jsonl
 review-findings.md
 review-findings.jsonl
+
+# Local session checkpoint
+PROGRESS.md
+
+# Python test bytecode
+__pycache__/
